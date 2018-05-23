@@ -1,16 +1,13 @@
 input = list("---------- ")
-=
+
 flips_allowed = 3
 
 count = 0
 
 input_string = "".join(input)
-=
+
 
 completed = False;
-
-
-
 
 while (input_string != "".join(["+" for j in range(len(input_string))])):
 	
