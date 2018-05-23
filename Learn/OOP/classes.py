@@ -18,5 +18,5 @@ p.say_hi()
 a = Person("Arjun")
 a.print_name()
 
-#Namespaces : Names are valid within the context of these classes and objects
+
 
